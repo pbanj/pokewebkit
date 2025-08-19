@@ -22,7 +22,7 @@
     "@angular/platform-browser": "~13.3.11",
     "@angular/platform-browser-dynamic": "~13.3.11",
     "@angular/router": "~13.3.11",
-    "@pixi/tilemap": "^3.2.1",
+    "@pixi/tilemap": "^5.0.0",
     "@types/pixi.js": "^5.0.0",
     "autoprefixer": "10.4.20",
     "bootstrap": "^5.2.0-beta1",
